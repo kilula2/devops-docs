@@ -19,3 +19,5 @@
 ## Восстановление
 
 Перед восстановлением изучите [журнал типовых инцидентов](incidents.md).
+
+Add-Content -Path .\docs\runbook.md -Encoding utf8 -Value "`r`n[Проверка битой ссылки](missing-page.md)"
